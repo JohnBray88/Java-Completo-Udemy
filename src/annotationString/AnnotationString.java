@@ -3,6 +3,7 @@ package annotationString;
 public class AnnotationString {
 
 	public static void main(String[] args) {
+		//Testtando git push mane
 		// TODO Auto-generated method stub
 		// Main function of String on JAVA
 		/*--FORMAT:
