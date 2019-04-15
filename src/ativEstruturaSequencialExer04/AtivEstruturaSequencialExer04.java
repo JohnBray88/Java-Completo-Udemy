@@ -1,14 +1,14 @@
 package ativEstruturaSequencialExer04;
 
 import java.text.DecimalFormat;
-import java.text.NumberFormat;
+//import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class AtivEstruturaSequencialExer04 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		DecimalFormat df = new DecimalFormat("'$'0.00");
-		NumberFormat nf = NumberFormat.getCurrencyInstance();
+		//NumberFormat nf = NumberFormat.getCurrencyInstance();
 		System.out.println("Enter employee number: ");
 		int numEmployee = sc.nextInt();
 		sc.nextLine();
